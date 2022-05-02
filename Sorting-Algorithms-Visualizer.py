@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import random
 from Color import color
-
+# adding new comments to my code
 # <--- Clearer ui using ctypes --->
 import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(1)
@@ -393,3 +393,4 @@ visual_canvas.grid(row=2 , column=0, padx=canvas_padx, pady=(0, 10))
 # <--- Print Main Window --->
 
 root_window.mainloop()
+#finally all changes done
